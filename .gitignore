@@ -1,0 +1,9 @@
+.DS_Store
+Thumbs.db
+node_modules/
+*.xlsx
+*.xlsm
+~$*
+Income_Expense_Backup_*.json
+.vscode/
+.idea/
